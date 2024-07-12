@@ -166,4 +166,21 @@
           z-index: 2;
       }
   }
-  
+  .col-4{
+    padding-left: 0;
+}
+.no-border {
+    border-radius: 0 !important;
+}
+.social-links a{
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+.social-links i {
+    color: black;
+}
+.social-links .social-text {
+    color: #000000;
+    margin-left: 10px;
+}
